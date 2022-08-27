@@ -3,7 +3,7 @@ module.exports = defineConfig({
   transpileDependencies: true,
   pwa: {
     name: "Contre C",
-    themeColor: "#FFFFFF",
+    themeColor: "#2A303C",
     msTileColor: "#000000",
     appleMobileWebAppCapable: "yes",
     appleMobileWebAppStatusBarStyle: "black",
