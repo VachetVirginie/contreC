@@ -1,31 +1,9 @@
 <template>
   <div class="btm-nav gap-2 overflow-auto scrollbar-hide">
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
-    </button>
-    <button>
-      <span class="text-red-500">TOTO</span>
+    <button v-for="item in menu" :key="item">
+      <span class="text-emerald-500">
+        <router-link :to="item.link">{{ item.name }}</router-link>
+      </span>
     </button>
   </div>
 </template>
@@ -33,8 +11,12 @@
 <script>
 export default {
   name: "BottomComponent",
-  // props: {
-  //   msg: String,
-  // },
+  data: () => ({
+    menu: [
+      { link: "/", name: "Hackstock" },
+      { link: "/about", name: "Rebellyon" },
+      { link: "/ideeculture", name: "Generator" },
+    ],
+  }),
 };
 </script>
