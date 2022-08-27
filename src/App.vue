@@ -1,8 +1,11 @@
 <template>
   <div id="app">
     <nav>
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+      <router-link to="/">Hackstock (Podcast)</router-link> |
+      <router-link to="/about">Rebellyon</router-link> |
+      <router-link to="/radiorageuses">Radiorageuses</router-link> |
+      <router-link to="/ideeculture">Le Pass (contre) Culture</router-link>
+      <router-link to="/laronce">Le Pass (contre) Culture</router-link>
     </nav>
     <router-view />
   </div>
@@ -28,5 +31,10 @@ nav {
       color: #42b983;
     }
   }
+}
+
+.vue-iframe iframe {
+  height: 1000px !important;
+  width: 100%;
 }
 </style>

@@ -1,18 +1,25 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png" />
-    <HelloWorld msg="Welcome to Your Vue.js App" />
-  </div>
+  <vue-iframe
+    :src="src"
+    frame-id="my-ifram"
+    @load="onLoad"
+    name="my-frame"
+    width="150px"
+    height="2000px"
+  />
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from "@/components/HelloWorld.vue";
-
 export default {
-  name: "HomeView",
-  components: {
-    HelloWorld,
+  name: "MyIframe",
+  data: () => ({
+    myIframe: null,
+    src: "https://hackstock.net/podcasts",
+  }),
+  methods: {
+    onLoad(frame) {
+      this.myIframe = frame.contentWindow;
+    },
   },
 };
 </script>
