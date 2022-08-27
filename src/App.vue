@@ -5,7 +5,7 @@
       <router-link to="/about">Rebellyon</router-link> |
       <router-link to="/radiorageuses">Radiorageuses</router-link> |
       <router-link to="/ideeculture">Le Pass (contre) Culture</router-link>
-      <router-link to="/laronce">Le Pass (contre) Culture</router-link>
+      <router-link to="/laronce">La ronce</router-link>
     </nav>
     <router-view />
   </div>
