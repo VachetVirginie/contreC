@@ -20,6 +20,6 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# contreC
+### Used
+[tailwind-scrollbar-hide](https://github.com/reslear/tailwind-scrollbar-hide).
+[daisyUI](https://daisyui.com/docs/install/).

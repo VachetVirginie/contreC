@@ -1,12 +1,13 @@
 <template>
   <div id="app">
-    <nav>
-      <router-link to="/">Hackstock (Podcast)</router-link> |
-      <router-link to="/about">Rebellyon</router-link> |
-      <router-link to="/radiorageuses">Radiorageuses</router-link> |
-      <router-link to="/ideeculture">Le Pass (contre) Culture</router-link>
-      <router-link to="/laronce">La ronce</router-link>
-    </nav>
+    <!--    <nav>-->
+    <!--      <router-link to="/">Hackstock (Podcast)</router-link> |-->
+    <!--      <router-link to="/about">Rebellyon</router-link> |-->
+    <!--      <router-link to="/radiorageuses">Radiorageuses</router-link> |-->
+    <!--      <router-link to="/ideeculture">Le Pass (contre) Culture</router-link>-->
+    <!--      <router-link to="/laronce">La ronce</router-link>-->
+    <!--    </nav>-->
+    <BottomComponent />
     <router-view />
   </div>
 </template>
@@ -38,3 +39,9 @@ nav {
   width: 100%;
 }
 </style>
+<script>
+import BottomComponent from "@/components/BottomNavigationComponent";
+export default {
+  components: { BottomComponent },
+};
+</script>
