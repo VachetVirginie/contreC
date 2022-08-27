@@ -1,25 +1,10 @@
 <template>
-  <vue-iframe
-    :src="src"
-    frame-id="my-ifram"
-    @load="onLoad"
-    name="my-frame"
-    width="150px"
-    height="2000px"
-  />
+  <HeroComponent />
 </template>
 
 <script>
+import HeroComponent from "@/components/HeroComponent";
 export default {
-  name: "MyIframe",
-  data: () => ({
-    myIframe: null,
-    src: "https://hackstock.net/podcasts",
-  }),
-  methods: {
-    onLoad(frame) {
-      this.myIframe = frame.contentWindow;
-    },
-  },
+  components: { HeroComponent },
 };
 </script>
