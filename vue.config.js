@@ -12,7 +12,7 @@ module.exports = defineConfig({
     // },
     // configure the manifest options
     manifestOptions: {
-      display: "landscape",
+      display: "portrait",
       background_color: "#2A303C",
       // ...
     },
