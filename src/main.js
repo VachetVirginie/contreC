@@ -4,6 +4,7 @@ import "./registerServiceWorker";
 import router from "./router";
 import VueIframe from "vue-iframes";
 import TwitterFeed from "vuejs-twitter-feed";
+import "./index.css";
 
 Vue.use(VueIframe, TwitterFeed);
 
