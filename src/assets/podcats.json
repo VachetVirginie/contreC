@@ -1,0 +1,129 @@
+[
+    {
+      "title": "Épisode 14 - Bilan",
+      "description": "Le bilan depuis cette dernière année de pandémie.",
+      "link": "https://hackstock.net/podcasts/episode-14-bilan",
+      "url": "https://hackstock.net/media/Hackstock_14_Bilan.mp3",
+      "pubDate": "Fri, 04 Jun 2021 13:37:00 +0100",
+      "duration": "1:18:24",
+      "image": "https://hackstock.net/media/Hackstock_14.jpg"
+    },
+    {
+      "title": "Épisode 13 - Manifestations",
+      "description": "La sécurité numérique avant, pendant et après les manifestations.",
+      "link": "https://hackstock.net/podcasts/episode-13-manifestations",
+      "pubDate": "Fri, 12 Jun 2020 13:37:00 +0100",
+      "duration": "1:17:21",
+      "url": "https://hackstock.net/media/Hackstock_13_Manifestations.mp3",
+      "image": "https://hackstock.net/media/Hackstock_13.jpg"
+    },
+    {
+      "title": "Épisode 12 - Coronavirus",
+      "description": "Le coronavirus, les app de traçage de contacts et les dérives potentielles.",
+      "link": "https://hackstock.net/podcasts/episode-12-coronavirus",
+      "pubDate": "Thu, 23 Apr 2020 13:37:00 +0100",
+      "duration": "1:15:00",
+      "url": "https://hackstock.net/media/Hackstock_12_Coronavirus.mp3",
+      "image": "https://hackstock.net/media/Hackstock_12.jpg"
+    },
+    {
+      "title": "Épisode 11 - Mitnick",
+      "description": "L'histoire de Kevin Mitnick, un des hackers le plus célèbres des années 90.",
+      "link": "https://hackstock.net/podcasts/episode-11-mitnick",
+      "pubDate": "Tue, 10 Mar 2020 13:37:00 +0100",
+      "duration": "1:03:24",
+      "url": "https://hackstock.net/media/Hackstock_11_Mitnick.mp3",
+      "image": "https://hackstock.net/media/Hackstock_11.jpg"
+    },
+    {
+      "title": "Épisode 10 - Esthétique",
+      "description": "L'esthétique dans le hacking et le retro-computing.",
+      "link": "https://hackstock.net/podcasts/episode-10-esthetique",
+      "pubDate": "Sun, 03 Nov 2019 13:37:00 +0100",
+      "duration": "1:14:38",
+      "url": "https://hackstock.net/media/Hackstock_10_Esthetique.mp3",
+      "image": "https://hackstock.net/media/Hackstock_10.jpg"
+    },
+    {
+      "title": "Épisode 9 - Racines",
+      "itunes:subtitle": "Épisode 9 - Racines",
+      "description": "L'histoire du hacking, en commençant par les racines.",
+      "link": "https://hackstock.net/podcasts/episode-9-racines",
+      "pubDate": "Mon, 18 Feb 2019 13:37:00 +0100",
+      "duration": "54:44",
+      "url": "https://hackstock.net/media/Hackstock_09_Racines.mp3",
+      "image": "https://hackstock.net/media/Hackstock_09.jpg"
+    },
+    {
+      "title": "Épisode 8 - Palantir",
+      "description": "Palantir, la société d'analyse et surveillance. Invité : Olivier Tesquet.",
+      "link": "https://hackstock.net/podcasts/episode-8-palantir",
+      "pubDate": "Tue, 09 Oct 2018 13:37:00 +0100",
+      "duration": "1:03:50",
+      "url": "https://hackstock.net/media/Hackstock_08_Palantir.mp3",
+      "image": "https://hackstock.net/media/Hackstock_08.jpg"
+    },
+    {
+      "title": "Épisode 7 - Résilience",
+      "description": "La résilience numérique.",
+      "link": "https://hackstock.net/podcasts/episode-7-resilience",
+      "pubDate": "Thu, 05 Jul 2018 13:37:00 +0100",
+      "duration": "1:12:34",
+      "url": "https://hackstock.net/media/Hackstock_07_Resilience.mp3",
+      "image": "https://hackstock.net/media/Hackstock_07.jpg"
+    },
+    {
+      "title": "Épisode 6 - Facebookgate",
+      "description": "L'affaire Facebook et Cambridge Analytica.",
+      "link": "https://hackstock.net/podcasts/episode-6-facebookgate",
+      "pubDate": "Tue, 27 Mar 2018 13:37:00 +0100",
+      "duration": "1:03:35",
+      "url": "https://hackstock.net/media/Hackstock_06_Facebookgate.mp3",
+      "image": "https://hackstock.net/media/Hackstock_06.jpg"
+    },
+    {
+      "title": "Épisode 5 - Livres",
+      "description": "Discussions sur nos livres préférés sur la culture hacker.",
+      "link": "https://hackstock.net/podcasts/episode-5-livres",
+      "pubDate": "Tue, 27 Feb 2018 13:37:00 +0100",
+      "itunes:duration": "55:04",
+      "url": "https://hackstock.net/media/Hackstock_05_Livres.mp3",
+      "image": "https://hackstock.net/media/Hackstock_05.jpg"
+    },
+    {
+      "title": "Épisode 4 - Hackers",
+      "description": "Actualités, GDPR et discussions sur le film culte Hackers.",
+      "link": "https://hackstock.net/podcasts/episode-4-hackers",
+      "pubDate": "Thu, 1 Feb 2018 13:37:00 +0100",
+      "itunes:duration": "1:07:26",
+      "url": "https://hackstock.net/media/Hackstock_04_Hackers.mp3",
+      "image": "https://hackstock.net/media/Hackstock_04.jpg"
+    },
+    {
+      "title": "Épisode 3 - Setups",
+      "description": "Actualités autour de la vie privée et présentation de nos setups personnels.",
+      "link": "https://hackstock.net/podcasts/episode-3-setups",
+      "pubDate": "Fri, 7 Jul 2017 13:37:00 +0100",
+      "itunes:duration": "1:01:10",
+      "url": "https://hackstock.net/media/Hackstock_03_Setups.mp3",
+      "image": "https://hackstock.net/media/Hackstock_03.jpg"
+    },
+    {
+      "title": "Épisode 2 - Snowden",
+      "description": "Edward Snowden et ses révélations",
+      "link": "https://hackstock.net/podcasts/episode-2-snowden",
+      "pubDate": "Wed, 22 Mar 2017 13:37:00 +0100",
+      "itunes:duration": "44:29",
+      "url": "https://hackstock.net/media/Hackstock_02_Snowden.mp3",
+      "image": "https://hackstock.net/media/Hackstock_02.jpg"
+    },
+    {
+      "title": "Épisode 1 - Surveillance",
+      "description": "Actualités et discussion autour de la surveillance.",
+      "link": "https://hackstock.net/podcasts/episode-1-surveillance",
+      "pubDate": "Sun, 19 Feb 2017 13:37:00 +0100",
+      "itunes:duration": "1:11:35",
+      "url": "https://hackstock.net/media/Hackstock_01_Surveillance.mp3",
+      "image": "https://hackstock.net/media/Hackstock_01.jpg"
+    }
+]
