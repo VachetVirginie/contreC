@@ -11,7 +11,11 @@
         <div class="py-8 flex flex-wrap md:flex-nowrap">
           <div class="md:w-64 md:mb-0 mb-6 flex-shrink-0 flex flex-col">
             <figure>
-              <img :src="episode.image" class="w-56 h-56" alt="Movie" />
+              <img
+                :src="episode.image"
+                class="w-56 h-56 mask mask-hexagon-2"
+                alt="Movie"
+              />
             </figure>
           </div>
           <div class="md:flex-grow">

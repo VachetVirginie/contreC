@@ -14,7 +14,7 @@ export default {
   name: "MyIframe",
   data: () => ({
     myIframe: null,
-    src: "https://rebellyon.info/",
+    src: "https://bluetouff.com/",
   }),
   methods: {
     onLoad(frame) {

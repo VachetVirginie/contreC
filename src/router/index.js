@@ -11,11 +11,11 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/HomeView.vue"),
   },
   {
-    path: "/about",
-    name: "about",
+    path: "/bluetouff",
+    name: "bluetouff",
 
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/AboutView.vue"),
+      import(/* webpackChunkName: "about" */ "../views/BluetouffView.vue"),
   },
   {
     path: "/hackstock",
@@ -32,11 +32,18 @@ const routes = [
       import(/* webpackChunkName: "about" */ "../views/IdeeCultureView"),
   },
   {
-    path: "/laronce",
-    name: "laronce",
+    path: "/contreAttaque",
+    name: "contreAttaque",
 
     component: () =>
-      import(/* webpackChunkName: "about" */ "../views/LaRonceView"),
+      import(/* webpackChunkName: "about" */ "../views/ContreAttaqueView"),
+  },
+  {
+    path: "/blast",
+    name: "blast",
+
+    component: () =>
+      import(/* webpackChunkName: "about" */ "../views/BlastView"),
   },
 ];
 

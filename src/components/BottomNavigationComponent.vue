@@ -13,10 +13,12 @@ export default {
   name: "BottomComponent",
   data: () => ({
     menu: [
-      { link: "/", name: "Home" },
-      { link: "/hackstock", name: "Hackstock" },
-      { link: "/about", name: "Rebellyon" },
-      { link: "/ideeculture", name: "Generator" },
+      { link: "/", name: "🏠" },
+      { link: "/blast", name: "🌬️" },
+      { link: "/bluetouff", name: "‍☠️" },
+      { link: "/contreattaque", name: "✨" },
+      { link: "/hackstock", name: "🎙️" },
+      { link: "/ideeculture", name: "💡" },
     ],
   }),
 };
