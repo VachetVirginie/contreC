@@ -3,10 +3,10 @@
     <button
       v-for="(item, index) in menu"
       :key="item"
-      :class="isActive === index ? 'active text-primary' : ''"
+      :class="isActive === index ? 'active text-secondary' : ''"
       @click="showIndex(index)"
     >
-      <span class="text-white">
+      <span :class="isActive === index ? 'text-secondary' : 'text-white'">
         <router-link :to="item.link">{{ item.name }}</router-link>
       </span>
     </button>
@@ -20,11 +20,11 @@ export default {
     isActive: 0,
     menu: [
       { link: "/", name: "🏠" },
-      { link: "/blast", name: "🌬️" },
-      { link: "/bluetouff", name: "‍☠️" },
-      { link: "/contreattaque", name: "✨" },
-      { link: "/hackstock", name: "🎙️" },
-      { link: "/ideeculture", name: "💡" },
+      { link: "/blast", name: "Blast" },
+      { link: "/bluetouff", name: "Bluetoufff️" },
+      { link: "/contreattaque", name: "CA" },
+      { link: "/hackstock", name: "Podcasts" },
+      { link: "/ideeculture", name: "Idees" },
     ],
   }),
   methods: {
