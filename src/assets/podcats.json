@@ -86,7 +86,7 @@
       "description": "Discussions sur nos livres préférés sur la culture hacker.",
       "link": "https://hackstock.net/podcasts/episode-5-livres",
       "pubDate": "Tue, 27 Feb 2018 13:37:00 +0100",
-      "itunes:duration": "55:04",
+      "duration": "55:04",
       "url": "https://hackstock.net/media/Hackstock_05_Livres.mp3",
       "image": "https://hackstock.net/media/Hackstock_05.jpg"
     },
@@ -95,7 +95,7 @@
       "description": "Actualités, GDPR et discussions sur le film culte Hackers.",
       "link": "https://hackstock.net/podcasts/episode-4-hackers",
       "pubDate": "Thu, 1 Feb 2018 13:37:00 +0100",
-      "itunes:duration": "1:07:26",
+      "duration": "1:07:26",
       "url": "https://hackstock.net/media/Hackstock_04_Hackers.mp3",
       "image": "https://hackstock.net/media/Hackstock_04.jpg"
     },
@@ -104,7 +104,7 @@
       "description": "Actualités autour de la vie privée et présentation de nos setups personnels.",
       "link": "https://hackstock.net/podcasts/episode-3-setups",
       "pubDate": "Fri, 7 Jul 2017 13:37:00 +0100",
-      "itunes:duration": "1:01:10",
+      "duration": "1:01:10",
       "url": "https://hackstock.net/media/Hackstock_03_Setups.mp3",
       "image": "https://hackstock.net/media/Hackstock_03.jpg"
     },
@@ -113,7 +113,7 @@
       "description": "Edward Snowden et ses révélations",
       "link": "https://hackstock.net/podcasts/episode-2-snowden",
       "pubDate": "Wed, 22 Mar 2017 13:37:00 +0100",
-      "itunes:duration": "44:29",
+      "duration": "44:29",
       "url": "https://hackstock.net/media/Hackstock_02_Snowden.mp3",
       "image": "https://hackstock.net/media/Hackstock_02.jpg"
     },
@@ -122,7 +122,7 @@
       "description": "Actualités et discussion autour de la surveillance.",
       "link": "https://hackstock.net/podcasts/episode-1-surveillance",
       "pubDate": "Sun, 19 Feb 2017 13:37:00 +0100",
-      "itunes:duration": "1:11:35",
+      "duration": "1:11:35",
       "url": "https://hackstock.net/media/Hackstock_01_Surveillance.mp3",
       "image": "https://hackstock.net/media/Hackstock_01.jpg"
     }
