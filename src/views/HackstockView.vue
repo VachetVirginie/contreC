@@ -11,7 +11,9 @@
               <h2 class="card-title text-white">{{ episode.title }}</h2>
               <p class="text-white">{{ episode.description }}</p>
               <div class="card-actions justify-end">
-                <button class="btn btn-primary">Watch</button>
+                <button class="btn btn-primary">
+                  <a :href="episode.url" target="_blank"> Watch </a>
+                </button>
               </div>
             </div>
           </div>
